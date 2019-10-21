@@ -3,15 +3,15 @@
 #### Rob Osterburg 
 ##### Software Engineer / Instructor
 
-Note: This tutorial introduction to web scaping with python 3 using requests and BeautifulSoup that was presented at [Denver Data Science Day 2017](http://denverdatascienceday.com/). 
+Note: This tutorial introduction to web scaping with python 3 using requests and BeautifulSoup that was presented at [Denver Data Science Day 2017](https://www.meetup.com/Colorado-Data-Science/events/242546534/). 
 
 ## Acknowledgements
 
-* The generous [sponsors](http://denverdatascienceday.com/index.php/sponsors/) of [Denver Data Science Day 2017](http://denverdatascienceday.com/)
+* The generous [sponsors](http://denverdatascienceday.com/index.php/sponsors/) of [Denver Data Science Day 2017](https://www.meetup.com/Colorado-Data-Science/events/242546534/)
 
-* [Galvanize](https://www.galvanize.com/pick-a-location?page=%2F) for hosting [Denver Data Science Day 2017](http://denverdatascienceday.com/)
+* [Galvanize](https://www.galvanize.com/pick-a-location?page=%2F) for hosting [Denver Data Science Day 2017](https://www.meetup.com/Colorado-Data-Science/events/242546534/)
 
-* Bob Mickus, Tyler B. and all the volunteers from [PyData Denver](https://www.meetup.com/PyData-Denver/) who organized [Denver Data Science Day](http://denverdatascienceday.com/)
+* Bob Mickus, Tyler B. and all the volunteers from [PyData Denver](https://www.meetup.com/PyData-Denver/) who organized [Denver Data Science Day](https://www.meetup.com/Colorado-Data-Science/events/242546534/)
 
 * Miguel Grinberg whose [Easy Web Scraping with Python](https://blog.miguelgrinberg.com/post/easy-web-scraping-with-python) blog post inspired this tutorial.  Miguel's posted his tutorial in 2014 and PyVideo.org has recently undergone a significant revision.
 
